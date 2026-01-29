@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 'sanskar', name: 'Sanskar Karki', image: 'assets/sanskar.jpg', sound: 'assets/sanskar.mp3', caption: 'LMAO!' },
         { id: 'saurav', name: 'Saurav Shrestha', image: 'assets/saurav.jpg', sound: 'assets/saurav.mp3', caption: 'LOL!' },
         { id: 'ashish', name: 'Ashish Thapa', image: 'assets/ashish.jpg', sound: 'assets/ashish.mp3', caption: 'ROFL!' },
+        { id: 'nikesh', name: 'Nikesh Adhikary', image: 'assets/nikesh.jpg', sound: 'assets/nikesh.mp3', caption: 'ROFL!' },
     ];
 
     // Background Elements
